@@ -1,6 +1,6 @@
 # terraform-aws-acm-certificate
 
-[![Terraform Version](https://img.shields.io/badge/Terraform%20Version->=0.12.0,<=0.13.0-blue.svg)](https://releases.hashicorp.com/terraform/)
+[![Terraform Version](https://img.shields.io/badge/Terraform%20Version->=0.13.0,<=0.13.7-blue.svg)](https://releases.hashicorp.com/terraform/)
 [![Release](https://img.shields.io/github/release/traveloka/terraform-aws-acm-certificate.svg)](https://github.com/traveloka/terraform-aws-acm-certificate/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/traveloka/terraform-aws-acm-certificate.svg)](https://github.com/traveloka/terraform-aws-acm-certificate/commits/master)
 [![Issues](https://img.shields.io/github/issues/traveloka/terraform-aws-acm-certificate.svg)](https://github.com/traveloka/terraform-aws-acm-certificate/issues)
@@ -42,13 +42,15 @@ Doesn't have any dependencies to any other Terraform module
 ## Terraform Versions
 
 Created and tested using Terraform version `0.11.14`
-The latest stable version of Terraform which this module tested working is Terraform `0.12.31` on 2021/09/22
+The latest stable version of Terraform which this module tested working is Terraform `0.13.7` on 2021/09/29
 
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
 
-No requirements.
+| Name | Version |
+|------|---------|
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.13 |
 
 ## Providers
 
